@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @x4e4a (NJ)
+- 👋 Hi, I’m @x4e4a (NJ) Neal
 - 👀 I’m interested in Digital Forensics, making sense of data...
 - 🌱 I’m enjoy learning Python, always learning Windows Forensics
 - 💞️ I’m looking to collaborate on anything
